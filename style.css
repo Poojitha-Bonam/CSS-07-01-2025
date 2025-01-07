@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #2A004E;
+}
+.container-1{
+    width: 100%;
+    height: 740px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-2{
+    width: 500px;
+    height: 500px;
+    background-color: #500073;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container-3 input{
+    padding-left:10px ;
+    width: 340px;
+    height: 50px;
+    margin-top: 10px;
+}
+input {
+    padding-left:10px ;
+    width: 340px;
+    height: 50px;
+    margin-top: 10px;
+}
+p {
+    color: white;
+    margin-top: 20px;
+}
+a {
+    gap: 25px;
+    color: white;
+    text-decoration: none;
+}
