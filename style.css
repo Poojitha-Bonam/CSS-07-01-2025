@@ -40,7 +40,7 @@ p {
 }
 a {
     gap: 25px;
-    color: blue;
+    color: white;
     text-decoration: none;
 }
 input[type="submit"]:hover {
